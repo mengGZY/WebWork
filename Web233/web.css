@@ -1,0 +1,458 @@
+
+.jiang{
+	background:url(jianbian1.png) repeat center center;
+}
+.nav1{
+	width: 1200px;
+	margin: 0 auto;
+	cursor: pointer;
+}
+.nav1>ul ul{
+	display: none;
+}
+.nav1>ul>li:hover ul{
+	
+	display: block;
+}
+.logo{
+	float: left;
+	width: 120px;
+	height: 75px;
+}
+.daohang{
+	margin-left: 30px;
+	float: left;
+}
+.daohang li{
+	float: left;
+	height: 75px;
+	width: 120px;
+	text-align: center;
+	line-height: 80px;
+	font-size:18px;
+	font-family:Microsoft YaHei;
+	font-weight:400;
+	border-bottom:1px solid white;
+}
+.daohang a{
+	color:rgba(5,5,5,1);
+}
+.daohang a:hover{
+	color: orange;
+}
+.daohang li:hover{
+	border-bottom:1px solid orange;
+}
+
+.form{
+	float: right;
+	margin-top: 25px;
+	
+}
+.search{
+	float: left;
+	height: 25px;
+	width:200px ;
+	padding-left:0px;
+	border: 3px solid orange;
+}
+.submit{
+	border: none;
+	width: 25px;
+	height: 31px;
+	vertical-align: bottom;
+	float: left;
+	background:orange url(button.png) no-repeat center center;
+	border: 3px solid orange;
+}
+.first{
+	width: 1200px;
+	height: 70px;
+	margin: 0 auto;
+	position: relative;
+	
+}
+.first ul{
+	position: absolute;
+	top: 10px;
+	left: 167px;
+	width: 500px;
+}
+.first li{
+	margin-left: 25px;
+	float: left;
+	display: inline-block;
+}
+.first li a{
+	font-size:13px;
+	font-family:Microsoft YaHei;
+	font-weight:200;
+	color:rgba(5,5,5,1);
+}
+.first a:hover{
+	color: orange;
+}
+
+.xi{
+	border-left: 1px solid black;
+	padding-left: 15px;
+}
+.button1{
+	display: inline-block;
+	margin-left:60px ;
+}
+.button2{
+	display: inline-block;
+	margin-left:10px ;
+}
+.first form{
+	display: inline-block;
+	float: right;
+	border: 1px solid orange;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+.third{
+	width: 1200px;
+	margin: 0 auto;
+}
+.fourth h2{
+	
+	color: red;
+}
+.third h2{
+	color: red;
+	display: block;
+}
+.wang{
+	width: 130px;
+	margin: 0 auto;
+}
+.fourth{
+	width: 1200px;
+	margin: 0 auto;
+}
+.png{
+	width: 230px;
+	height: 200px;
+}
+
+.fourth ul{
+	float: left;
+}
+.fourth li{
+	float: left;
+}
+.one{
+	margin-left: 3px;
+	position: relative;
+}
+.two{
+	position: relative;
+}
+.meng{
+	position: absolute;
+	bottom: 0px;
+	height: 45px;
+	width: 230px;
+	background:rgba(0,0,0,0.4);
+	line-height: 45px;
+}
+.meng p{
+	position: absolute;
+	left:70px ;
+	color: #fff;
+	font-size: 15px;
+}
+#first{
+	position: absolute;
+	top: 0px;
+	height: 165px;
+	width: 190px;
+	background:rgba(0,0,0,0.4);
+	padding: 20px;
+	color: #fff;
+	font-size: 8px;
+}
+#meng{
+	position: absolute;
+	top: 0px;
+	height: 165px;
+	width: 190px;
+	background:rgba(0,0,0,0.4);
+	padding: 20px;
+	color: #fff;
+	font-size: 8px;
+}
+#one1{
+	position: absolute;
+	top: 0px;
+	height: 165px;
+	width: 190px;
+	background:rgba(0,0,0,0.4);
+	padding: 20px;
+	color: #fff;
+	font-size: 8px;
+}
+#two1{
+	position: absolute;
+	top: 0px;
+	height: 165px;
+	width: 190px;
+	background:rgba(0,0,0,0.4);
+	padding: 20px;
+	color: #fff;
+	font-size: 8px;
+}
+#three1{
+	position: absolute;
+	top: 0px;
+	height: 165px;
+	width: 190px;
+	background:rgba(0,0,0,0.4);
+	padding: 20px;
+	color: #fff;
+	font-size: 8px;
+}
+#four{
+	position: absolute;
+	top: 0px;
+	height: 165px;
+	width: 190px;
+	background:rgba(0,0,0,0.4);
+	padding: 20px;
+	color: #fff;
+	font-size: 8px;
+}
+#five{
+	position: absolute;
+	top: 0px;
+	height: 165px;
+	width: 190px;
+	background:rgba(0,0,0,0.4);
+	padding: 20px;
+	color: #fff;
+	font-size: 8px;
+}
+#six{
+	position: absolute;
+	top: 0px;
+	height: 165px;
+	width: 190px;
+	background:rgba(0,0,0,0.4);
+	padding: 20px;
+	color: #fff;
+	font-size: 8px;
+}
+#seven{
+	position: absolute;
+	top: 0px;
+	height: 165px;
+	width: 190px;
+	background:rgba(0,0,0,0.4);
+	padding: 20px;
+	color: #fff;
+	font-size: 8px;
+}
+#eight{
+	position: absolute;
+	top: 0px;
+	height: 165px;
+	width: 190px;
+	background:rgba(0,0,0,0.4);
+	padding: 20px;
+	color: #fff;
+	font-size: 8px;
+}
+
+
+.fifth{
+	margin: auto;
+	padding-top: 20px;
+	width: 1200px;
+	position: relative;
+}
+
+
+.fifth li{
+	width: 396px;
+	float:left;
+	position: relative;
+	margin-bottom: 2px;
+	margin-left: 2px; 
+}
+.di{
+	position: absolute;
+	bottom: 0px;
+	height: 45px;
+	width: 390px;
+	background:rgba(0,0,0,0.4);
+	line-height: 45px;
+	text-align: center;
+	color: white;
+}
+.last{
+	height: 150px;
+	width: 1200px;
+	margin: 0px auto;
+	position: relative;
+}
+.banquan{
+	float: left;
+	position: absolute;
+	top: 50px;
+	left: 400px;
+}
+.banquan li{
+	width: 100px;
+	float: left;
+	font-size:12px;
+	font-family:SimSun;
+	font-weight:500;
+	line-height:21px;
+	text-align: center;
+}
+.banquan li a{
+	color: black;
+}
+.heng{
+	border-left: 1px solid black;
+}
+.last p{
+	position: absolute;
+	left: 500px;
+	bottom: 30px;
+	font-size:16px;
+	font-family:SimSun;
+	font-weight:400;
+}
+.xinxi li{
+	font-size:15px;
+	font-family:SimSun;
+	font-weight:400;
+	line-height: 30px;
+}
+.xinxi{
+	position: absolute;
+	top: 15px;
+}
+.pei{
+	height: 400px;
+	clear: both;
+    background-color: #3c3c3c;
+    color: #c2c2c2;
+    line-height: 22px;
+    padding-bottom: 20px;
+    font-size: 12px;
+    position: relative;
+}
+.nuo{
+	height: 220px;
+	width: 1200px;
+	margin: 0px auto;
+	position: relative;
+	border-bottom: 1px solid white;
+}
+.nuo div{
+	width: 200px;
+	height: 160px;
+}
+.nuo li{
+	color: #c2c2c2;
+    line-height: 22px;
+    font-size: 12px;
+    font-family:Microsoft Yahei;
+}
+.lv{
+	position: absolute;
+	top: 30px;
+	left: 200px;
+}
+#one{
+	font-size: 16px;
+	color: orange;
+}
+#two{
+	font-size: 16px;
+	color: orange;
+}
+#three{
+	font-size: 16px;
+	color: orange;
+}
+.guan{
+	position: absolute;
+	top: 30px;
+	left: 550px;
+}
+.xing{
+	position: absolute;
+	top: 30px;
+	left: 850px;
+}
+.qian{
+	height: 20px;
+	font-size: 20px;
+	text-align: center;
+	color: white;
+	
+}
+.box{
+	
+	width: 1519px;
+	height: 514px;
+	
+	margin: 0px auto;
+	position: relative;
+	overflow: hidden;
+}
+.slider{
+	width: 10633px;
+	position: absolute;
+	left: -1519px;
+}
+.slide{
+	width: 1519px;
+	overflow: hidden;
+	float: left;
+}
+
+.box>span{
+	display: block;
+	width: 30px;
+	height: 50px;
+	text-align: center;
+	cursor: pointer;
+	color: #fff;
+	top: 175px;
+	line-height: 50px;
+	background: rgb(255,0,0);
+	font-size: 30px;
+	position: absolute;
+	
+	opacity: 0;
+}
+#left{
+	left: 30px;
+}
+#right{
+	right: 30px;
+}
+.nav{
+	position: absolute;
+	left: 680px;
+	bottom: 20px;
+}
+.nav>li{
+	float: left;
+	width: 20px;
+	height: 20px;
+	background: #ccc;
+	cursor: pointer;
+	margin: 0 10px;
+	border-radius: 50%;
+}
+.nav .active{
+	background: red;
+}
